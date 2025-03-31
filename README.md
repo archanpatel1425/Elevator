@@ -13,7 +13,6 @@ A logic-based **Vanilla JavaScript & HTML** project simulating an elevator syste
 
 ## 🛠️ Tech Stack  
 - **HTML**  
-- **CSS**  
 - **Vanilla JavaScript**  
 
 ## ⚡ How to Run Locally  
